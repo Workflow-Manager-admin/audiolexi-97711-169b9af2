@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/audiolexi-97711-169b9af2/backend_api"
+}
